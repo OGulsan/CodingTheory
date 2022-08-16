@@ -2,7 +2,7 @@ package codingtheory;
 
 import java.util.*;
 
-public class DetectErrors {
+public class CodingTheory {
 
     public static void main(String[] args) {
 
